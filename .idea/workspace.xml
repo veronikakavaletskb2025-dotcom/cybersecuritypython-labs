@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41800988-0187-4702-877c-b7ff5f5fb014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/data/log.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/data/users.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab01/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/student.py" afterDir="false" />
+    <list default="true" id="41800988-0187-4702-877c-b7ff5f5fb014" name="Changes" comment="complete lab01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1790010471212</updated>
     </task>
+    <task id="LOCAL-00001" summary="complete lab01">
+      <option name="closed" value="true" />
+      <created>1790021094668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790021094668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete lab01" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab01" />
   </component>
 </project>
