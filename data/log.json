@@ -1,0 +1,101 @@
+[
+  {
+    "event": "login",
+    "user": "alice_sec",
+    "result": "success",
+    "timestamp": "2026-09-21 22:50:16",
+    "args": [
+      "alice_sec",
+      "Str0ngPass!123"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "bob_admin",
+    "result": "failure",
+    "timestamp": "2026-09-21 22:50:16",
+    "args": [
+      "bob_admin",
+      "WrongPassword"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "unknown_user",
+    "result": "failure",
+    "timestamp": "2026-09-21 22:50:16",
+    "args": [
+      "unknown_user",
+      "SomePassword1"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "alice_sec",
+    "result": "success",
+    "timestamp": "2026-09-25 12:12:42",
+    "args": [
+      "alice_sec",
+      "Str0ngPass!123"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "bob_admin",
+    "result": "failure",
+    "timestamp": "2026-09-25 12:12:42",
+    "args": [
+      "bob_admin",
+      "WrongPassword"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "unknown_user",
+    "result": "failure",
+    "timestamp": "2026-09-25 12:12:42",
+    "args": [
+      "unknown_user",
+      "SomePassword1"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "alice_sec",
+    "result": "success",
+    "timestamp": "2026-10-02 10:45:55",
+    "args": [
+      "alice_sec",
+      "Str0ngPass!123"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "bob_admin",
+    "result": "failure",
+    "timestamp": "2026-10-02 10:45:55",
+    "args": [
+      "bob_admin",
+      "WrongPassword"
+    ],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "unknown_user",
+    "result": "failure",
+    "timestamp": "2026-10-02 10:45:55",
+    "args": [
+      "unknown_user",
+      "SomePassword1"
+    ],
+    "kwargs": {}
+  }
+]
